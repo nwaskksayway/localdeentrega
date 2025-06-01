@@ -33,3 +33,4 @@ $(window).on( "click", function(){
 	$(".button-cart").removeClass("btn-hiding");
 	$(".cont-options").removeClass("slideup");
 });
+
